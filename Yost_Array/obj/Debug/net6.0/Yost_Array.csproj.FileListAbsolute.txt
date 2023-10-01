@@ -1,0 +1,15 @@
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\bin\Debug\net6.0\Yost_Array.exe
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\bin\Debug\net6.0\Yost_Array.deps.json
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\bin\Debug\net6.0\Yost_Array.runtimeconfig.json
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\bin\Debug\net6.0\Yost_Array.dll
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\bin\Debug\net6.0\Yost_Array.pdb
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.csproj.AssemblyReference.cache
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.AssemblyInfoInputs.cache
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.AssemblyInfo.cs
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.csproj.CoreCompileInputs.cache
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.dll
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\refint\Yost_Array.dll
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.pdb
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\Yost_Array.genruntimeconfig.cache
+C:\Users\Yost\source\repos\Yost_Array Solution\Yost_Array\obj\Debug\net6.0\ref\Yost_Array.dll
